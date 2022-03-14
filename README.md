@@ -1,4 +1,4 @@
-# People-analytics-Serios-sql-case-study
+# People-analytics-Serious-sql-case-study
 People Analytics or HR Analytics is an increasingly popular focus area
 for data professionals. Many business and people decisions which were
 traditionally based off senior management gut feels and intuition are
